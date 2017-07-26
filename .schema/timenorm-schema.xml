@@ -166,7 +166,7 @@
       </entity>
       <entity type="Last" color="977FA3" hotkey="l">
 	<properties>
-	  <property type="Semantics" input="choice">Standard,Newswire,Interval-Not-Included,Interval-Included</property>
+	  <property type="Semantics" input="choice">Interval-Not-Included,Interval-Included</property>
 	  <property type="Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
