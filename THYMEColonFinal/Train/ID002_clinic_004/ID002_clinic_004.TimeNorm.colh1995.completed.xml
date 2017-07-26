@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>11:13:50 14-05-2016</savetime>
@@ -1851,6 +1850,7 @@
 			<Interval>284@e@ID002_clinic_004@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2055,6 +2055,7 @@
 			<Interval>109@e@ID002_clinic_004@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval>307@e@ID002_clinic_004@colh1995</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2129,6 +2130,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>311@e@ID002_clinic_004@colh1995</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2334,7 +2336,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>

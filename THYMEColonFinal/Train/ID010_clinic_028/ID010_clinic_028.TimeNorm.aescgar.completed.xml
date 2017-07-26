@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>14:53:43 15-06-2016</savetime>
@@ -649,6 +648,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -662,6 +662,7 @@
 			<Interval>159@e@ID010_clinic_028@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -684,6 +685,7 @@
 			<Interval>159@e@ID010_clinic_028@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -785,6 +787,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>167@e@ID010_clinic_028@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -810,6 +813,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>169@e@ID010_clinic_028@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -832,6 +836,7 @@
 			<Interval>171@e@ID010_clinic_028@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -853,7 +858,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -884,6 +889,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>175@e@ID010_clinic_028@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -931,6 +937,7 @@
 			<Interval></Interval>
 			<Period>178@e@ID010_clinic_028@aescgar</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -944,6 +951,7 @@
 			<Interval></Interval>
 			<Period>179@e@ID010_clinic_028@aescgar</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -987,7 +995,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -1035,7 +1043,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -2355,6 +2363,8 @@
 			<Start-Interval>309@e@ID010_clinic_028@aescgar</Start-Interval>
 			<End-Interval-Type>DocTime</End-Interval-Type>
 			<End-Interval></End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -2368,6 +2378,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2381,6 +2392,7 @@
 			<Interval>186@e@ID010_clinic_028@aescgar</Interval>
 			<Period>188@e@ID010_clinic_028@aescgar</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

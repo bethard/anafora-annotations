@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>14:35:54 15-01-2017</savetime>
@@ -1522,6 +1521,7 @@
 			<Interval>641@e@ID106_clinic_312@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1639,6 +1639,7 @@
 			<Interval>422@e@ID106_clinic_312@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2922,6 +2923,7 @@
 			<Interval>413@e@ID106_clinic_312@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -3265,6 +3267,8 @@
 			<Start-Interval></Start-Interval>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>780@e@ID106_clinic_312@gold</End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -3278,6 +3282,8 @@
 			<Start-Interval>782@e@ID106_clinic_312@gold</Start-Interval>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>776@e@ID106_clinic_312@gold</End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -3291,6 +3297,8 @@
 			<Start-Interval>659@e@ID106_clinic_312@gold</Start-Interval>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>662@e@ID106_clinic_312@gold</End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -3304,6 +3312,8 @@
 			<Start-Interval>768@e@ID106_clinic_312@gold</Start-Interval>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>775@e@ID106_clinic_312@gold</End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 

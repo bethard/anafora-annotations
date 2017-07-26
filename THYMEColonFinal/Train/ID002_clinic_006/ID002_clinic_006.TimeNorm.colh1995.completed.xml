@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>11:32:57 14-05-2016</savetime>
@@ -1847,6 +1846,7 @@
 			<Interval>257@e@ID002_clinic_006@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1992,6 +1992,7 @@
 			<Interval>270@e@ID002_clinic_006@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2096,6 +2097,7 @@
 			<Interval-Type>Link</Interval-Type>
 			<Interval>282@e@ID002_clinic_006@colh1995</Interval>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2151,6 +2153,8 @@
 			<Start-Interval>289@e@ID002_clinic_006@colh1995</Start-Interval>
 			<End-Interval-Type>DocTime</End-Interval-Type>
 			<End-Interval></End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -2186,7 +2190,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -2300,7 +2304,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>299@e@ID002_clinic_006@colh1995</Interval>
 			<Period></Period>
@@ -2556,7 +2560,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>17:41:41 25-04-2016</savetime>
@@ -63,6 +62,8 @@
 			<Start-Interval></Start-Interval>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>59@e@sample-3-982-540-2@aescgar</End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -148,6 +149,7 @@
 			<Interval>67@e@sample-3-982-540-2@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -208,6 +210,7 @@
 			<Interval>73@e@sample-3-982-540-2@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -252,6 +255,7 @@
 			<Interval>78@e@sample-3-982-540-2@aescgar</Interval>
 			<Period>75@e@sample-3-982-540-2@aescgar</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -296,6 +300,7 @@
 			<Interval>82@e@sample-3-982-540-2@aescgar</Interval>
 			<Period>81@e@sample-3-982-540-2@aescgar</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -343,6 +348,7 @@
 			<Interval>86@e@sample-3-982-540-2@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -365,6 +371,7 @@
 			<Interval>88@e@sample-3-982-540-2@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -516,6 +523,7 @@
 			<Interval>102@e@sample-3-982-540-2@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -673,6 +681,7 @@
 			<Interval>113@e@sample-3-982-540-2@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -682,7 +691,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -968,7 +977,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>142@e@sample-3-982-540-2@aescgar</Interval>
 			<Period></Period>

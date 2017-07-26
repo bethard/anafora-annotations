@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>15:47:17 11-09-2016</savetime>
@@ -2081,6 +2080,7 @@
 			<Interval>195@e@ID018_clinic_054@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2265,7 +2265,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -2405,6 +2405,7 @@
 			<Interval></Interval>
 			<Period>552@e@ID018_clinic_054@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2468,6 +2469,7 @@
 			<Interval>118@e@ID018_clinic_054@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2706,6 +2708,8 @@
 			<Start-Interval></Start-Interval>
 			<End-Interval-Type>DocTime</End-Interval-Type>
 			<End-Interval></End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -2757,6 +2761,7 @@
 			<Interval>583@e@ID018_clinic_054@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval>578@e@ID018_clinic_054@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -3021,6 +3026,7 @@
 			<Interval>97@e@ID018_clinic_054@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -3091,6 +3097,7 @@
 			<Interval></Interval>
 			<Period>608@e@ID018_clinic_054@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -3104,6 +3111,7 @@
 			<Interval>152@e@ID018_clinic_054@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -3463,6 +3471,7 @@
 			<Interval>642@e@ID018_clinic_054@gold</Interval>
 			<Period>640@e@ID018_clinic_054@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -3899,6 +3908,7 @@
 			<Interval>679@e@ID018_clinic_054@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -3946,6 +3956,7 @@
 			<Interval></Interval>
 			<Period>683@e@ID018_clinic_054@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -3995,6 +4006,8 @@
 			<Start-Interval>200@e@ID018_clinic_054@gold</Start-Interval>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>543@e@ID018_clinic_054@gold</End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -4064,6 +4077,7 @@
 			<Interval>162@e@ID018_clinic_054@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -4179,6 +4193,7 @@
 			<Interval></Interval>
 			<Period>536@e@ID018_clinic_054@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -4192,6 +4207,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -4227,6 +4243,7 @@
 			<Interval>706@e@ID018_clinic_054@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>15:25:35 22-03-2017</savetime>
@@ -2535,7 +2534,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -2784,6 +2783,7 @@
 			<Interval></Interval>
 			<Period>723@e@ID168_clinic_491@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2797,6 +2797,7 @@
 			<Interval></Interval>
 			<Period>721@e@ID168_clinic_491@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2810,6 +2811,7 @@
 			<Interval></Interval>
 			<Period>724@e@ID168_clinic_491@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2823,6 +2825,7 @@
 			<Interval></Interval>
 			<Period>720@e@ID168_clinic_491@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2836,6 +2839,8 @@
 			<Start-Interval></Start-Interval>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>716@e@ID168_clinic_491@gold</End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -2849,6 +2854,7 @@
 			<Interval></Interval>
 			<Period>725@e@ID168_clinic_491@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

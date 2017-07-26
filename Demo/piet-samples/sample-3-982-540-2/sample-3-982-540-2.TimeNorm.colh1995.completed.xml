@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>17:12:36 10-03-2016</savetime>
@@ -135,6 +134,7 @@
 			<Interval>63@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -227,6 +227,7 @@
 			<Interval>147@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval>70@e@sample-3-982-540-2@colh1995</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -240,6 +241,7 @@
 			<Interval>146@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -452,6 +454,7 @@
 			<Interval>94@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -474,6 +477,7 @@
 			<Interval>94@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -615,7 +619,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -904,6 +908,8 @@
 			<Start-Interval>134@e@sample-3-982-540-2@colh1995</Start-Interval>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>57@e@sample-3-982-540-2@colh1995</End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -926,6 +932,7 @@
 			<Interval>136@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -970,6 +977,7 @@
 			<Interval>140@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -992,6 +1000,7 @@
 			<Interval>142@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1023,6 +1032,7 @@
 			<Interval>144@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1036,6 +1046,7 @@
 			<Interval>144@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1068,6 +1079,7 @@
 			<Interval>147@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1093,6 +1105,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1106,6 +1119,7 @@
 			<Interval>157@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1119,6 +1133,7 @@
 			<Interval>153@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1132,6 +1147,7 @@
 			<Interval>144@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1154,6 +1170,7 @@
 			<Interval>157@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1167,6 +1184,7 @@
 			<Interval>144@e@sample-3-982-540-2@colh1995</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

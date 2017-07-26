@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>10:33:37 25-06-2016</savetime>
@@ -635,7 +634,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -653,6 +652,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>263@e@ID001_clinic_001@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -678,6 +678,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>265@e@ID001_clinic_001@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -703,6 +704,7 @@
 			<Interval>267@e@ID001_clinic_001@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -725,6 +727,7 @@
 			<Interval>269@e@ID001_clinic_001@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -797,6 +800,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>273@e@ID001_clinic_001@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -810,6 +814,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>276@e@ID001_clinic_001@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -836,6 +841,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>278@e@ID001_clinic_001@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -862,6 +868,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -957,7 +964,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -1585,6 +1592,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>286@e@ID001_clinic_001@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

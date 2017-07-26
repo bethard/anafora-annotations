@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>10:01:48 31-00-2017</savetime>
@@ -2084,6 +2083,7 @@
 			<Interval>399@e@ID074_clinic_220@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2473,6 +2473,7 @@
 			<Interval>526@e@ID074_clinic_220@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval>476@e@ID074_clinic_220@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2497,6 +2498,7 @@
 			<Interval>527@e@ID074_clinic_220@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval>487@e@ID074_clinic_220@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2585,6 +2587,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>434@e@ID074_clinic_220@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2598,6 +2601,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>436@e@ID074_clinic_220@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

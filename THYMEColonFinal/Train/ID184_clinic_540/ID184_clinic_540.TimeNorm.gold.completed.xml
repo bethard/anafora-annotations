@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>09:33:39 27-03-2017</savetime>
@@ -475,6 +474,7 @@
 			<Interval>176@e@ID184_clinic_540@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -514,6 +514,7 @@
 			<Interval>104@e@ID184_clinic_540@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -587,6 +588,7 @@
 			<Interval>69@e@ID184_clinic_540@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -685,6 +687,7 @@
 			<Interval>115@e@ID184_clinic_540@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -698,6 +701,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>174@e@ID184_clinic_540@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -743,6 +747,8 @@
 			<Start-Interval>89@e@ID184_clinic_540@gold</Start-Interval>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>90@e@ID184_clinic_540@gold</End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -780,6 +786,7 @@
 			<Interval></Interval>
 			<Period>183@e@ID184_clinic_540@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -830,6 +837,7 @@
 			<Interval>62@e@ID184_clinic_540@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
