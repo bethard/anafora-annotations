@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>09:55:23 23-01-2016</savetime>
@@ -37,6 +36,7 @@
 			<Interval>6@e@VOA19980501.1800.0355@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -62,6 +62,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>8@e@VOA19980501.1800.0355@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -88,6 +89,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>10@e@VOA19980501.1800.0355@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

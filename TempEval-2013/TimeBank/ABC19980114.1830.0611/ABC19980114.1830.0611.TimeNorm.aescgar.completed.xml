@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>09:40:02 26-00-2016</savetime>
@@ -65,6 +64,7 @@
 			<Interval>26@e@ABC19980114.1830.0611@aescgar</Interval>
 			<Period>35@e@ABC19980114.1830.0611@aescgar</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

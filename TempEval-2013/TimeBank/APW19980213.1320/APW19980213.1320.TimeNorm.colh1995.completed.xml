@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>17:23:27 11-10-2015</savetime>
@@ -188,6 +187,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>38@e@APW19980213.1320@colh1995</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -209,7 +209,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -275,6 +275,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>48@e@APW19980213.1320@colh1995</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -324,6 +325,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>53@e@APW19980213.1320@colh1995</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

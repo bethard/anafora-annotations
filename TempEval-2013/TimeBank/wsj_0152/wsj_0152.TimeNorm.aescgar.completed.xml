@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>09:53:12 15-02-2016</savetime>
@@ -146,6 +145,7 @@
 			<Interval>25@e@wsj_0152@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval>19@e@wsj_0152@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -198,6 +198,7 @@
 			<Interval>26@e@wsj_0152@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval>10@e@wsj_0152@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -264,6 +265,7 @@
 			<Interval>27@e@wsj_0152@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval>28@e@wsj_0152@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+<info>
+  <savetime>13:07:22 08-05-2017</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>12@e@ABC19980114.1830.0611@isma5916</id>
+		<span>31,33</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>14</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@e@ABC19980114.1830.0611@isma5916</id>
+		<span>29,31</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>January</Type>
+			<Sub-Interval>12@e@ABC19980114.1830.0611@isma5916</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@ABC19980114.1830.0611@isma5916</id>
+		<span>25,29</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>1998</Value>
+			<Sub-Interval>13@e@ABC19980114.1830.0611@isma5916</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@ABC19980114.1830.0611@isma5916</id>
+		<span>86,91</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@ABC19980114.1830.0611@isma5916</id>
+		<span>86,91</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>15@e@ABC19980114.1830.0611@isma5916</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@ABC19980114.1830.0611@isma5916</id>
+		<span>173,178</span>
+		<type>Part-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Night</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@ABC19980114.1830.0611@isma5916</id>
+		<span>173,178</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>19@e@ABC19980114.1830.0611@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval>17@e@ABC19980114.1830.0611@isma5916</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@ABC19980114.1830.0611@isma5916</id>
+		<span>208,212</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>20@e@ABC19980114.1830.0611@isma5916</id>
+		<span>575,581</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Minutes</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@e@ABC19980114.1830.0611@isma5916</id>
+		<span>582,585</span>
+		<type>Sum</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Periods>23@e@ABC19980114.1830.0611@isma5916</Periods>
+			<Periods>20@e@ABC19980114.1830.0611@isma5916</Periods>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@e@ABC19980114.1830.0611@isma5916</id>
+		<span>588,592</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>0.5</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@ABC19980114.1830.0611@isma5916</id>
+		<span>575,581</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Minutes</Type>
+			<Number>22@e@ABC19980114.1830.0611@isma5916</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>24@e@ABC19980114.1830.0611@isma5916</id>
+		<span>593,598</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>25@e@ABC19980114.1830.0611@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>25@e@ABC19980114.1830.0611@isma5916</id>
+		<span>367,379</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>26@e@ABC19980114.1830.0611@isma5916</id>
+		<span>897,902</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>27@e@ABC19980114.1830.0611@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>27@e@ABC19980114.1830.0611@isma5916</id>
+		<span>881,883</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

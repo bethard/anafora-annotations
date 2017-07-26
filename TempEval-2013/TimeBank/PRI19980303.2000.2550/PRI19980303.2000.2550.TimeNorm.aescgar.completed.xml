@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>10:15:40 08-02-2016</savetime>
@@ -69,6 +68,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>13@e@PRI19980303.2000.2550@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -107,6 +107,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>16@e@PRI19980303.2000.2550@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -145,6 +146,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

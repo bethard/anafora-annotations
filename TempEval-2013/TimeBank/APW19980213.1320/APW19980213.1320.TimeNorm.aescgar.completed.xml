@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>14:29:13 22-00-2016</savetime>
@@ -44,6 +43,7 @@
 			<Interval>87@e@APW19980213.1320@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -69,6 +69,7 @@
 			<Interval>27@e@APW19980213.1320@aescgar</Interval>
 			<Period>24@e@APW19980213.1320@aescgar</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -137,7 +138,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -232,6 +233,8 @@
 			<Start-Interval>46@e@APW19980213.1320@aescgar</Start-Interval>
 			<End-Interval-Type>Unknown</End-Interval-Type>
 			<End-Interval></End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -258,6 +261,8 @@
 			<Start-Interval>65@e@APW19980213.1320@aescgar</Start-Interval>
 			<End-Interval-Type>Unknown</End-Interval-Type>
 			<End-Interval></End-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
@@ -346,6 +351,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>49@e@APW19980213.1320@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -609,6 +615,7 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>22@e@APW19980213.1320@aescgar</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
