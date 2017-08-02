@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+<info>
+  <savetime>10:54:42 26-06-2017</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>10@e@wsj_0169@isma5916</id>
+		<span>15,17</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>2</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>11@e@wsj_0169@isma5916</id>
+		<span>12,14</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>November</Type>
+			<Sub-Interval>10@e@wsj_0169@isma5916</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@e@wsj_0169@isma5916</id>
+		<span>18,20</span>
+		<type>Two-Digit-Year</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Value>89</Value>
+			<Sub-Interval>11@e@wsj_0169@isma5916</Sub-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@e@wsj_0169@isma5916</id>
+		<span>155,157</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>2</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@wsj_0169@isma5916</id>
+		<span>152,154</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>November</Type>
+			<Sub-Interval>13@e@wsj_0169@isma5916</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@wsj_0169@isma5916</id>
+		<span>158,160</span>
+		<type>Two-Digit-Year</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Value>89</Value>
+			<Sub-Interval>14@e@wsj_0169@isma5916</Sub-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@wsj_0169@isma5916</id>
+		<span>481,485</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@wsj_0169@isma5916</id>
+		<span>459,464</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>16@e@wsj_0169@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@wsj_0169@isma5916</id>
+		<span>691,700</span>
+		<type>Part-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Afternoon</Type>
+			<Number></Number>
+			<Modifier>20@e@wsj_0169@isma5916</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>20@e@wsj_0169@isma5916</id>
+		<span>687,690</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Mid</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@e@wsj_0169@isma5916</id>
+		<span>701,710</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@e@wsj_0169@isma5916</id>
+		<span>701,710</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>21@e@wsj_0169@isma5916</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@wsj_0169@isma5916</id>
+		<span>691,700</span>
+		<type>Intersection</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Intervals>22@e@wsj_0169@isma5916</Intervals>
+			<Repeating-Intervals>19@e@wsj_0169@isma5916</Repeating-Intervals>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>24@e@wsj_0169@isma5916</id>
+		<span>909,911</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>10</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>25@e@wsj_0169@isma5916</id>
+		<span>904,908</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>December</Type>
+			<Sub-Interval>24@e@wsj_0169@isma5916</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>26@e@wsj_0169@isma5916</id>
+		<span>904,908</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>25@e@wsj_0169@isma5916</Repeating-Interval>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>
