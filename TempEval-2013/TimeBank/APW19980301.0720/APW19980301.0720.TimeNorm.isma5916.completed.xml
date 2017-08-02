@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>14:50:42 12-05-2017</savetime>
+  <savetime>21:04:36 28-06-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -382,9 +383,9 @@
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
 			<Start-Interval>56@e@APW19980301.0720@isma5916</Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>DocTime</End-Interval-Type>
 			<End-Interval></End-Interval>
-			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
@@ -634,11 +635,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period>76@e@APW19980301.0720@isma5916</Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

@@ -1,31 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>13:07:33 08-05-2017</savetime>
+  <savetime>16:27:23 01-07-2017</savetime>
   <progress>completed</progress>
 </info>
 
 <schema path="./" protocol="file">temporal.schema.xml</schema>
 
 <annotations>
-	<entity>
-		<id>2@regex</id>
-		<span>48,52</span>
-		<type>PreAnnotation</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>3@regex</id>
-		<span>53,57</span>
-		<type>PreAnnotation</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
-	</entity>
-
 	<entity>
 		<id>14@e@ABC19980120.1830.0957@isma5916</id>
 		<span>29,31</span>
@@ -102,11 +85,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>21@e@ABC19980120.1830.0957@isma5916</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -145,42 +128,16 @@
 	</entity>
 
 	<entity>
-		<id>24@e@ABC19980120.1830.0957@isma5916</id>
-		<span>2092,2096</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Unknown</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>25@e@ABC19980120.1830.0957@isma5916</id>
-		<span>2087,2091</span>
-		<type>Last</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Semantics>Interval-Not-Included</Semantics>
-			<Interval-Type>Link</Interval-Type>
-			<Interval></Interval>
-			<Period>24@e@ABC19980120.1830.0957@isma5916</Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>27@e@ABC19980120.1830.0957@isma5916</id>
 		<span>2077,2082</span>
 		<type>Between</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
-			<Start-Interval>25@e@ABC19980120.1830.0957@isma5916</Start-Interval>
+			<Start-Interval></Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>DocTime</End-Interval-Type>
 			<End-Interval></End-Interval>
-			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
@@ -198,16 +155,16 @@
 	</entity>
 
 	<entity>
-		<id>29@e@ABC19980120.1830.0957@isma5916</id>
-		<span>2112,2118</span>
-		<type>Next</type>
+		<id>30@e@ABC19980120.1830.0957@isma5916</id>
+		<span>2102,2104</span>
+		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period>28@e@ABC19980120.1830.0957@isma5916</Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
