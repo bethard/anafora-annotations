@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
-  <savetime>13:46:06 19-05-2017</savetime>
+  <savetime>10:12:47 11-06-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -28,6 +28,9 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -54,6 +57,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -69,6 +75,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -246,10 +255,13 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>26</Value>
-			<Sub-Interval></Sub-Interval>
+			<Sub-Interval>56@e@APW19980826.0389@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>

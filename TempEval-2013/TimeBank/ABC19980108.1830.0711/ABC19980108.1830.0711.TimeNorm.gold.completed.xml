@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
-  <savetime>15:51:29 19-05-2017</savetime>
+  <savetime>14:07:42 13-06-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -351,6 +351,22 @@
 		<properties>
 			<Type>Fiscal</Type>
 		</properties>
+	</entity>
+
+	<entity>
+		<id>91@e@ABC19980108.1830.0711@gold</id>
+		<span>141,145</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 </annotations>

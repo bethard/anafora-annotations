@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
-  <savetime>14:43:39 19-05-2017</savetime>
+  <savetime>09:49:34 07-06-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -240,6 +240,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -290,6 +293,9 @@
 			<Period></Period>
 			<Repeating-Interval>108@e@APW19990122.0193@gold</Repeating-Interval>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -354,8 +360,10 @@
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
 			<Start-Interval>132@e@APW19990122.0193@gold</Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>DocTime</End-Interval-Type>
 			<End-Interval></End-Interval>
+			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
 
