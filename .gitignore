@@ -2,6 +2,6 @@
 *
 # except for .gitignore and XML files
 !.gitignore
-!*TimeNorm.*.completed*.xml
+!*TimeNorm.*completed*.xml
 # or such files in subdirectories
 !*/
