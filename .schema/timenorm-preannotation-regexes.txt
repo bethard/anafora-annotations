@@ -10,6 +10,7 @@
 (?i)\bweeks?\b	PreAnnotation
 (?i)\bmonths?\b	PreAnnotation
 (?i)\bquarters?\b	PreAnnotation
+(?i)\bseasons?\b	PreAnnotation
 (?i)\by(?:ea)?rs?\b	PreAnnotation
 (?i)\bdecades?\b	PreAnnotation
 (?i)\bcentur(?:y|ies)\b	PreAnnotation
